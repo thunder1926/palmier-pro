@@ -302,7 +302,7 @@ extension View {
     }
 }
 
-// MARK: - ClipType color mapping
+// MARK: - ClipType color mapping-- to track colors in diff fomats 
 
 extension ClipType {
     var themeColor: NSColor {
